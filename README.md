@@ -14,7 +14,10 @@
 
 
 ## UML-диаграмма
-
+<div id="header" align="center">
+  <img src="https://github.com/QuanRy/TPR/blob/main/lab1/UML-диаграмма.jpg?raw=true" width="700"/>
+  <p> Рисунок 1 – UML-диаграмма классов </p> 
+</div>
 
 ## Выводs
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Углублено понимание распределенной системы контроля версий Git и ее ключевых функций.  
