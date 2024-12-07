@@ -35,7 +35,8 @@ class TestCalcRating90points:
 
     def test_student_above_90(self, input_data: DataType) -> None:
         calc_student_above_90 = CaclRating90points(input_data)
-        assert calc_student_above_90.find_student_with_two_subjects_above_90() == 1
+        assert calc_student_above_90.find_student_with_two_subjects_above_90
+        () == 1
 
     def test_print(self, input_data: DataType, capsys) -> None:
         calc_student_above_90 = CaclRating90points(input_data)
