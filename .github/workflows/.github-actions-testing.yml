@@ -34,3 +34,10 @@ jobs:
         run: |
           python -m pytest lab1/rating/test
 
+      - name: Test by running the program by data.txt
+        run: |
+          python -m lab1.rating.src.main -p lab1\rating\data\data.txt
+      
+      - name: Test by running the program by data_json.txt
+        run: |
+          python -m lab1.rating.src.main -p lab1\rating\data\data_json.json
